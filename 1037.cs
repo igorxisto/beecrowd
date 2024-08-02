@@ -1,5 +1,5 @@
 using System; 
-class URI1037 {
+class URI {
 
     static void Main(string[] args) { 
 
